@@ -6,7 +6,7 @@
         {
             Console.Write("Type a number: ");
             int input = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Reversed number: {Reverse(input)}");
+            Console.WriteLine($"Reverse number: {Reverse(input)}");
             Console.ReadKey();
         }
 

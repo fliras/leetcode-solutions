@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04MedianOfTwoSortedArrays
+﻿namespace _04MedianOfTwoSortedArrays
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double median = FindMedianSortedArrays(new int[] {1, 2, 6, 7, 8}, new int[] {3,3});
+            double median = FindMedianSortedArrays(new int[] { 1, 2, 6, 7, 8 }, new int[] { 3, 3 });
             Console.WriteLine(median);
             Console.ReadKey();
         }

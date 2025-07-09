@@ -1,8 +1,4 @@
-﻿using System;
-
-// https://leetcode.com/problems/two-sum/
-
-namespace _01TwoSum
+﻿namespace _01TwoSum
 {
     internal class Program
     {

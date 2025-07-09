@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "01TwoSum": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace _03LongestSubstringWithoutRepeatingCharacters
+﻿namespace _03LongestSubstringWithoutRepeatingCharacters
 {
     internal class Program
     {
