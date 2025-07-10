@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TwoSum", "01TwoSum\01TwoSum.csproj", "{0489441C-8014-48B3-BA24-B9CE4CB99AAE}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ZigzagConversion", "06ZigzagConversion\06ZigzagConversion.csproj", "{6C08FC9E-4075-4B57-8020-A2C0F9CD298C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07ReverseInteger", "07ReverseInteger\07ReverseInteger.csproj", "{97D5D20D-85D8-4C9E-A4BE-9E7201397832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08StringToInteger", "08StringToInteger\08StringToInteger.csproj", "{DD4E2A60-4243-4832-9E4C-9B314044AB5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{97D5D20D-85D8-4C9E-A4BE-9E7201397832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97D5D20D-85D8-4C9E-A4BE-9E7201397832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97D5D20D-85D8-4C9E-A4BE-9E7201397832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4E2A60-4243-4832-9E4C-9B314044AB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4E2A60-4243-4832-9E4C-9B314044AB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4E2A60-4243-4832-9E4C-9B314044AB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4E2A60-4243-4832-9E4C-9B314044AB5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
